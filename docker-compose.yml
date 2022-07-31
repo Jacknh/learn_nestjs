@@ -1,8 +1,8 @@
 version: '3'
 services:
   nestjs:
-    # image: 744db8e1f5cb
-    build: .
+    image: 854db23ddf56
+    # build: .
     ports:
       - 3000:3000
     environment:
